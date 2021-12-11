@@ -141,7 +141,7 @@
     }
   }
 })({"7PGg5":[function(require,module,exports) {
-console.log('hi');
+console.log('hi'); //# sourceMappingURL=index.js.map
 
 },{}]},["7PGg5"], "7PGg5", "parcelRequire94c2")
 
